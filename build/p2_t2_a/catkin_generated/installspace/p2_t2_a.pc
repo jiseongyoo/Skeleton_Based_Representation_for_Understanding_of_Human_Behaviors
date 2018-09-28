@@ -1,0 +1,8 @@
+prefix=/home/jiseongyoo/T2_yoo_jiseong/install
+
+Name: p2_t2_a
+Description: Description of p2_t2_a
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jiseongyoo/T2_yoo_jiseong/install/lib 
+Requires: 

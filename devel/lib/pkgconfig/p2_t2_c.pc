@@ -1,0 +1,8 @@
+prefix=/home/jiseongyoo/T2_yoo_jiseong/devel
+
+Name: p2_t2_c
+Description: Description of p2_t2_c
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jiseongyoo/T2_yoo_jiseong/devel/lib 
+Requires: 
