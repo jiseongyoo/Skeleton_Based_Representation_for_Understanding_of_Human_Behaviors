@@ -1,4 +1,15 @@
 README
+Class: CSCI573 Human-Centered Robotics at Colorado School of Mines
+Lecturer: Dr. Hao Zhang
+
+Author: Jiseong Yoo
+Date: 3/16/2018
+
+Program Description:
+ This program creates skeleton based representations of human behaviors; RAD (Relative Angles and Distances), HJPD (Histogram of Joint Position Differences), HOD (Histogram of Oriented Displacements).
+ Using a library for Support Vector Machine, the program is trained to classify human behaviors with a dataset collected from Microsoft Kinect V1 sensor.
+ This program also predicts human behaviors using the Support Vector Machine.
+ The overall accuracy is found in the directory, Accuracy tabel.
 
 => How to compile the .cpp
 1. In a new terminal
