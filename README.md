@@ -7,10 +7,13 @@ Date: 3/16/2018
 Program Description:
  This program creates skeleton based representations of human behaviors; RAD (Relative Angles and Distances), HJPD (Histogram of Joint Position Differences), HOD (Histogram of Oriented Displacements).
  
-<div align="left">
+<div align="center">
     <img src="/RAD_representation.png" width="500px"</img><br>
+	<RAD representation>
     <img src="/HJPD_representation.png" width="300px"</img><br>
+	<HJPD representation>
     <img src="/HOD_representation.png" width="700px"</img>
+	<HOD representation>
 </div>
 
  Using a library for Support Vector Machine (LIBSVM), the program is trained to classify human behaviors with a dataset collected from Microsoft Kinect V1 sensor.
