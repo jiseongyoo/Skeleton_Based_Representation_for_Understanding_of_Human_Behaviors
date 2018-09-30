@@ -13,7 +13,10 @@ Program Description:
  This program also predicts human behaviors using the Support Vector Machine.
  The overall accuracy is found in the directory, Accuracy tabel.
  
-![alt text](Accuracy table/Accuracy table.JPG? raw=true "Accuracy Table") 
+<div align="left">
+    <img src="/Accuracy table/Accuracy table.JPG" width="400px"</img> 
+</div>
+
 
  Link to the LIBSVM webpage:
 	http://www.csie.ntu.edu.tw/~cjlin/libsvm
