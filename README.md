@@ -7,12 +7,13 @@ Date: 3/16/2018
 Program Description:
  This program creates skeleton based representations of human behaviors; RAD (Relative Angles and Distances), HJPD (Histogram of Joint Position Differences), HOD (Histogram of Oriented Displacements).
  
+ 
 <div align="center">
     <img src="/RAD_representation.png" width="500px"</img><br>
 	<b> RAD representation </b><br>
     <img src="/HJPD_representation.png" width="300px"</img><br>
 	<b> HJPD representation </b><br>
-    <img src="/HOD_representation.png" width="700px"</img>
+    <img src="/HOD_representation.png" width="700px"</img><br>
 	<b> HOD representation </b><br>
 </div>
 
