@@ -42,11 +42,11 @@ Program Description:<br>
 	$ rosrun p2_t2_c p2_t2_c
 
 => Accuracy of SVM training
-1. <span style="background-color: #FFFF00">RAD  : 70.4545%</span>
+1. <b>RAD  : 70.4545%</b><br>
 	The number of bins : 8
-2. <b>HJPD : 64.5833%</b>
+2. <b>HJPD : 64.5833%</b><br>
 	The number of bins : 10
-3. <mark>HOD  : 91.6667%</mark>
+3. <b>HOD  : 91.6667%</b><br>
 	The number of bins : 6
 
 => Accuracy table is included in "Accuracy table"
