@@ -1,7 +1,7 @@
-Class: CSCI573 Human-Centered Robotics at Colorado School of Mines
+Class: CSCI573 Human-Centered Robotics at Colorado School of Mines<br>
 Lecturer: Dr. Hao Zhang
 
-Author: Jiseong Yoo
+Author: Jiseong Yoo<br>
 Date: 3/16/2018
 
 Program Description:<br>
@@ -16,7 +16,7 @@ Program Description:<br>
     <img src="/HOD_representation.png" width="700px"</img><br>
 	<b> HOD representation </b><br>
 </div>
-
+<br><br>
 
  Using a library for Support Vector Machine (LIBSVM), the program is trained to classify human behaviors with a dataset collected from Microsoft Kinect V1 sensor.
  This program also predicts human behaviors using the Support Vector Machine.
