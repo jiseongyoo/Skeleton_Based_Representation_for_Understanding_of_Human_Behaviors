@@ -7,16 +7,14 @@ Date: 3/16/2018
 Program Description:
  This program creates skeleton based representations of human behaviors; RAD (Relative Angles and Distances), HJPD (Histogram of Joint Position Differences), HOD (Histogram of Oriented Displacements).
  
-![alt text](?)
+<div align="left">
+    <img src="/Accuracy table/Accuracy table.JPG" width="700px"</img> 
+</div>
 
  Using a library for Support Vector Machine (LIBSVM), the program is trained to classify human behaviors with a dataset collected from Microsoft Kinect V1 sensor.
  This program also predicts human behaviors using the Support Vector Machine.
  The overall accuracy is found in the directory, Accuracy tabel.
  
-<div align="left">
-    <img src="/Accuracy table/Accuracy table.JPG" width="700px"</img> 
-</div>
-
 
  Link to the LIBSVM webpage:
 	http://www.csie.ntu.edu.tw/~cjlin/libsvm
