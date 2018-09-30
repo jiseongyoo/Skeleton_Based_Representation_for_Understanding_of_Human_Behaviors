@@ -9,8 +9,7 @@ Program Description:
  
 <div align="center">
     <img src="/RAD_representation.png" width="500px"</img><br>
-</div>
-	<RAD representation>
+	<b> RAD representation </b>
     <img src="/HJPD_representation.png" width="300px"</img><br>
 	<HJPD representation>
     <img src="/HOD_representation.png" width="700px"</img>
