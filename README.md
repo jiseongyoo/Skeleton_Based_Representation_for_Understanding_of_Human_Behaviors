@@ -52,7 +52,7 @@ Program Description:<br>
 => Accuracy table is included in "Accuracy table"
 
 <div align="left">
-    <img src="/Accuracy table/Accuracy table.JPG" width="500px"</img><br>
+    <img src="/Accuracy table/Accuracy table.JPG" width="700px"</img><br>
 </div>
 
 => Best values of C and gamma
