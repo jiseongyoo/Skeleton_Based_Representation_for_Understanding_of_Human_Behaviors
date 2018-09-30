@@ -51,6 +51,10 @@ Program Description:<br>
 
 => Accuracy table is included in "Accuracy table"
 
+<div align="left">
+    <img src="/Accuracy table/Accuracy table.JPG" width="500px"</img><br>
+</div>
+
 => Best values of C and gamma
 1. RAD  : C = 128, gamma = 0.03125
 2. HJPD : C = 128, gamma = 0.001953125
