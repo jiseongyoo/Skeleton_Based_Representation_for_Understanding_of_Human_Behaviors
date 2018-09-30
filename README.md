@@ -9,11 +9,11 @@ Program Description:
  
 <div align="center">
     <img src="/RAD_representation.png" width="500px"</img><br>
-	<b> RAD representation </b>
+	<b> RAD representation </b><br>
     <img src="/HJPD_representation.png" width="300px"</img><br>
-	<HJPD representation>
+	<b> HJPD representation </b><br>
     <img src="/HOD_representation.png" width="700px"</img>
-	<HOD representation>
+	<b> HOD representation </b><br>
 </div>
 
  Using a library for Support Vector Machine (LIBSVM), the program is trained to classify human behaviors with a dataset collected from Microsoft Kinect V1 sensor.
