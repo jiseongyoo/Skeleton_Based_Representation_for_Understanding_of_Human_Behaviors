@@ -44,7 +44,7 @@ Program Description:<br>
 => Accuracy of SVM training
 1. <span style="background-color: #FFFF00">RAD  : 70.4545%</span>
 	The number of bins : 8
-2. <mark>HJPD : 64.5833%</mark>
+2. <b>HJPD : 64.5833%</b>
 	The number of bins : 10
 3. <mark>HOD  : 91.6667%</mark>
 	The number of bins : 6
