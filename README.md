@@ -14,7 +14,7 @@ Program Description:
  The overall accuracy is found in the directory, Accuracy tabel.
  
 <div align="left">
-    <img src="/Accuracy table/Accuracy table.JPG" width="400px"</img> 
+    <img src="/Accuracy table/Accuracy table.JPG" width="700px"</img> 
 </div>
 
 
